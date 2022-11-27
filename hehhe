@@ -1,0 +1,11 @@
+#increment operation used add
+
+a = 19
+a  += 2 
+print(a)
+
+#decrement operation used subtract
+
+b = 20
+b -= 10
+print (b)
